@@ -11,4 +11,4 @@ Assuntos abordados para execução do projeto:
 - Bootstrap
 
 Link Github Pages:
-https://garciachaves.github.io/atividades-uc9-eplayers/
+https://garciachaves.github.io/Atividades-UC9-eplayers/
